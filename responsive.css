@@ -1,11 +1,12 @@
 @media (max-width: 1200px) {
     body{
         background-color: #263238;
+        
     }
 
-    .fundo-video{
+    /*.fundo-video{
         display: none;
-    }
+    }*/
 
 
     .container {
@@ -15,8 +16,10 @@
         gap: 20px;
         
     }
+
     .container .imagem-titulo {
         max-width: 75%;
+        margin-top: 15px;
     }
 
     .container .mario {
@@ -40,7 +43,7 @@
     .cabecalho{
         flex-wrap: wrap;
         justify-content: center;
-        gap: 10px;
+        gap: 15px;
     }
 
    
