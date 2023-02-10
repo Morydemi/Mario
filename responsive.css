@@ -1,12 +1,12 @@
 @media (max-width: 1200px) {
     body{
-        background-color: #263238;
+        background-color: #1a0000;
         
     }
 
-    /*.fundo-video{
+    .fundo-video{
         display: none;
-    }*/
+    }
 
 
     .container {
